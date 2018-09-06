@@ -1,7 +1,7 @@
-ch = raw_input()
-if(ch>='a' and ch<='z'):
+ab = raw_input()
+if(ab>='a' and ab<='z'):
 	print("Alphabet")
-elif(ch>='A' and ch<='Z'):
+elif(ab>='A' and ab<='Z'):
 	print("Alphabet")
 else:
 	print("No")

@@ -4,4 +4,4 @@ if(ch>='a' and ch<='z'):
 elif(ch>='A' and ch<='Z'):
 	print("Alphabet")
 else:
-	print("no")
+	print("No")
